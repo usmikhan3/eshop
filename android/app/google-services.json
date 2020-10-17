@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "830358944476",
+    "firebase_url": "https://tvacecom.firebaseio.com",
+    "project_id": "tvacecom",
+    "storage_bucket": "tvacecom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830358944476:android:e7900b61b81917a0185219",
+        "android_client_info": {
+          "package_name": "com.appsbymuk.tvacecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830358944476-3ofk45bljseocmcppklao2ims9d8qo3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI9UQ8MNET4zBPGCW_6xbigOrJtjEafFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830358944476-3ofk45bljseocmcppklao2ims9d8qo3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
